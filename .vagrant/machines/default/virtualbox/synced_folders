@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/homesteadperproject-demo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/homesteadperproject-demo","hostpath":"/Users/oomusou/Code/Demo/HomesteadPerProject_demo","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oomusou/Code/Demo/HomesteadPerProject_demo","disabled":false}}}
